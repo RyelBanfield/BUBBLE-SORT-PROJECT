@@ -12,6 +12,6 @@ def bubble_sort_by(array)
   print array
 end
 
-array = [4, 3, 78 ,2, 0, 2]
+array = [4, 3, 78, 2, 0, 2]
 puts bubble_sort_by(array) { |left, right| left - right }
-puts bubble_sort_by(%w['hi','hello','hey']) { |left, right| left.length - right.length}
+puts bubble_sort_by(%w[hi hello hey]) { |left, right| left.length - right.length }

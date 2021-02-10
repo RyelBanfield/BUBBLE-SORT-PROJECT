@@ -9,7 +9,7 @@ def bubble_sort_by(array)
       index += 1
     end
   end
-  print array
+  return array
 end
 
 array = [4, 3, 78, 2, 0, 2]

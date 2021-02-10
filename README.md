@@ -23,7 +23,7 @@ Additional description about the project and its features.
 - GitHub: [@githubhandle](https://github.com/mgunduz1)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/mert-gunduz-875280202/)
 
-## Show your support
+## Show your support!
 
 Give a ⭐️ if you like this project!
 

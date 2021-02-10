@@ -11,5 +11,5 @@ def bubble_sort(array)
   print array
 end
 
-array = [4,3,78,2,0,2]
+array = [4, 3, 78, 2, 0, 2]
 puts bubble_sort(array)

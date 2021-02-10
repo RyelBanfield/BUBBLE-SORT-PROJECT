@@ -8,8 +8,8 @@ def bubble_sort(array)
       index += 1
     end
   end
-  return array
+  array
 end
 
 array = [4, 3, 78, 2, 0, 2]
-puts bubble_sort(array)
+print bubble_sort(array)

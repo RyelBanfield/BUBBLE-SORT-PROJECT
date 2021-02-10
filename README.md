@@ -10,6 +10,20 @@ Additional description about the project and its features.
 
 - RUBY
 
+## Getting Started
+
+First ensure that you have ruby installed on your local machine.
+
+To get a local copy up and running follow these simple example steps.
+
+## Install
+
+Download a copy of the bubblesort.rb file
+
+## Usage
+
+Execute in terminal like `ruby bubblesort.rb`
+
 ## Authors
 
 👤 **Ryel Banfield**

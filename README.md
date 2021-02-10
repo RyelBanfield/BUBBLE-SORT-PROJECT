@@ -14,17 +14,16 @@ Additional description about the project and its features.
 
 ## Authors
 
-👤 **Author1**
+👤 **Ryel Banfield**
 
 - GitHub: [@RyelBanfield](https://github.com/RyelBanfield)
 - Twitter: [@RyelBanfield](https://twitter.com/RyelBanfield)
 - LinkedIn: [RyelBanfield](https://www.linkedin.com/in/ryel-banfield-93a6a71b4/)
 
-👤 **Author2**
+👤 **Mert Gündüz**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/mgunduz1)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mert-gunduz-875280202/)
 
 ## Show your support
 
